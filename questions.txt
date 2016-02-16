@@ -1,0 +1,10 @@
+Un tipo de archivo en el que todos los valores están delimitados por comas.
+CSV
+Siglas de HyperText Markup Language
+HTML
+Framework de aplicaciones web optimizado para la productividad sostenible de programación. Framework utilizado por twitter, spotify, groupon ...
+RAILS
+Unidad dentro de un programa de computadora que consta de un estado y de un comportamiento, que a su vez constan respectivamente de datos almacenados y de tareas realizables durante el tiempo de ejecución.
+OBJETO
+Una construcción que se utiliza como un modelo para crear objetos de ese tipo
+CLASE
